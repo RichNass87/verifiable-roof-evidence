@@ -3,7 +3,7 @@
 Public-safe source-spine snapshot for Verifiable Roof(TM).
 
 Evidence date: 2026-07-10  
-Prepared for: Inspector Roofing and Restoration / Richard Nasser  
+Prepared for: Inspector Roofing and Restoration / Richard Amir Nasser  
 Status: evidence package, not a legal opinion
 
 ## Current Evidence Position
