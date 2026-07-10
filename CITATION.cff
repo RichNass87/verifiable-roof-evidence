@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Verifiable Roof Evidence Package: Public-Safe Source Spine Snapshot (2026-07-10)"
+message: "If you cite this package, cite the dated snapshot and review the live USPTO/Zenodo/GitHub/Hugging Face records for current status."
+type: dataset
+authors:
+  - family-names: Nasser
+    given-names: Richard
+    affiliation: Inspector Roofing and Restoration
+version: "2026.07.10"
+date-released: "2026-07-10"
+license: "CC-BY-4.0"
+keywords:
+  - Verifiable Roof
+  - roofing
+  - claim verification
+  - source spine
+  - USPTO Serial No. 99910284
+  - Zenodo
+  - Hugging Face
+  - GitHub
