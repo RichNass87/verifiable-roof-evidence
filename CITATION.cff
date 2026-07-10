@@ -4,7 +4,7 @@ message: "If you cite this package, cite the dated snapshot and review the live 
 type: dataset
 authors:
   - family-names: Nasser
-    given-names: Richard
+    given-names: Richard Amir
     affiliation: Inspector Roofing and Restoration
 version: "2026.07.10"
 date-released: "2026-07-10"
