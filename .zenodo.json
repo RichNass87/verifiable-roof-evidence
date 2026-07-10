@@ -1,0 +1,68 @@
+{
+  "title": "Verifiable Roof Evidence Package: Public-Safe Source Spine Snapshot (2026-07-10)",
+  "upload_type": "dataset",
+  "description": "A public-safe evidence package for Verifiable Roof(TM), documenting dated USPTO, GitHub, Hugging Face, Zenodo, and site evidence while avoiding unsupported claims. This snapshot records Verifiable Roof(TM) as a live/pending USPTO service mark application, not a registered mark, and provides claim-language boundaries for public source-spine publication.",
+  "creators": [
+    {
+      "name": "Nasser, Richard",
+      "affiliation": "Inspector Roofing and Restoration"
+    }
+  ],
+  "keywords": [
+    "Verifiable Roof",
+    "roofing",
+    "claim verification",
+    "source spine",
+    "trademark application",
+    "USPTO Serial No. 99910284",
+    "public-safe dataset",
+    "AI visibility",
+    "Zenodo",
+    "Hugging Face",
+    "GitHub"
+  ],
+  "license": "cc-by-4.0",
+  "version": "2026.07.10",
+  "related_identifiers": [
+    {
+      "identifier": "https://tsdr.uspto.gov/#caseNumber=99910284&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch",
+      "relation": "references",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/RichNass87/inspector-roofing-atlas-query-intelligence",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/RichNass87/inspector-roofing-search-integrity-report",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/InspectorRoofing/inspector-roofing-atlas-query-intelligence",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/spaces/InspectorRoofing/inspector-roofing-atlas-query-intelligence-demo",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.21042531",
+      "relation": "isSupplementedBy",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.21045292",
+      "relation": "isSupplementedBy",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://inspector-roofing.com/atlas-query-intelligence-study/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ]
+}
