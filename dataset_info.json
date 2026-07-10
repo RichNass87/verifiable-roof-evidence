@@ -1,0 +1,28 @@
+{
+  "dataset_name": "verifiable-roof-evidence",
+  "title": "Verifiable Roof Evidence Package",
+  "version": "2026.07.10",
+  "license": "cc-by-4.0",
+  "task_categories": [
+    "text-classification",
+    "question-answering"
+  ],
+  "language": [
+    "en"
+  ],
+  "tags": [
+    "roofing",
+    "claim-verification",
+    "source-spine",
+    "trademark-application",
+    "zenodo",
+    "github",
+    "huggingface",
+    "public-safe-data"
+  ],
+  "pretty_name": "Verifiable Roof Evidence Package",
+  "size_categories": [
+    "n<1K"
+  ],
+  "public_safe_boundary": "No private customer records, claim files, personal address/contact fields, API keys, or proprietary scoring rules are included."
+}
