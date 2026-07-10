@@ -1,0 +1,35 @@
+[
+  {
+    "source_id": "zenodo_21045292",
+    "record_id": "21045292",
+    "concept_record_id": "21040533",
+    "title": "The Roofing Search Integrity Report",
+    "doi": "10.5281/zenodo.21045292",
+    "concept_doi": "10.5281/zenodo.21040533",
+    "publication_date": "2026-06-29",
+    "status": "published",
+    "relevance": "Description and keywords include Verifiable Roof; related identifiers point to GitHub, site, Hugging Face, Kaggle, and book/source-spine records."
+  },
+  {
+    "source_id": "zenodo_21042531",
+    "record_id": "21042531",
+    "concept_record_id": "21042530",
+    "title": "A Public-Safe Demonstration Framework for Local Roofing AI Query Intelligence, Proof-Gallery Routing, and Homeowner Education",
+    "doi": "10.5281/zenodo.21042531",
+    "concept_doi": "10.5281/zenodo.21042530",
+    "publication_date": "2026-06-29",
+    "status": "published",
+    "relevance": "Mentions Verifiable Roof(TM), pending USPTO Serial No. 99910284, and related GitHub/Hugging Face/site source-spine records."
+  },
+  {
+    "source_id": "zenodo_21013082",
+    "record_id": "21013082",
+    "concept_record_id": "21011493",
+    "title": "A Public-Safe Demonstration Framework for Local Roofing AI Query Intelligence, Proof-Gallery Routing, and Homeowner Education",
+    "doi": "10.5281/zenodo.21013082",
+    "concept_doi": "10.5281/zenodo.21011493",
+    "publication_date": "2026-06-28",
+    "status": "published",
+    "relevance": "Earlier version mentioning Verifiable Roof(TM), pending USPTO Serial No. 99910284, and related public source-spine records."
+  }
+]
