@@ -1,0 +1,32 @@
+{
+  "source_id": "uspto_99910284",
+  "source": "USPTO Trademark Status & Document Retrieval (TSDR)",
+  "retrieved_on": "2026-07-10",
+  "tsdr_generated_time": "2026-07-10 11:42:08 EDT",
+  "mark": "VERIFIABLE ROOF",
+  "serial_number": "99910284",
+  "application_filing_date": "2026-06-28",
+  "register": "Principal",
+  "mark_type": "Service Mark",
+  "tm5_status": "LIVE/APPLICATION/Awaiting Examination",
+  "status": "New application awaiting assignment to an examining attorney.",
+  "status_date": "2026-06-28",
+  "mark_literal_elements": "VERIFIABLE ROOF",
+  "standard_character_claim": true,
+  "mark_drawing_type": "4 - STANDARD CHARACTER MARK",
+  "goods_and_services": "Business project management services for construction projects",
+  "international_class": "035",
+  "class_status": "ACTIVE",
+  "first_use": "2026-01-01",
+  "use_in_commerce": "2026-01-01",
+  "filed_use": true,
+  "filed_intent_to_use": false,
+  "law_office_assigned": "Not Assigned",
+  "public_safe_omissions": [
+    "owner address",
+    "correspondence address",
+    "phone number",
+    "email address"
+  ],
+  "language_rule": "Use Verifiable Roof(TM) or VERIFIABLE ROOF as a pending/live USPTO service mark application. Do not say registered unless TSDR later changes."
+}
