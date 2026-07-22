@@ -14,22 +14,22 @@ Verifiable Roof(TM) has public evidence, but the wording must stay careful:
 - Zenodo: the dedicated public evidence package is published at DOI `10.5281/zenodo.21298744`. Earlier DOI-backed public records also mention Verifiable Roof, including `10.5281/zenodo.21042531`, `10.5281/zenodo.21013082`, and `10.5281/zenodo.21045292`.
 - GitHub: this repository is the dedicated public-safe source-spine repository for the Verifiable Roof evidence package.
 - Hugging Face: the dedicated public dataset is `InspectorRoofing/verifiable-roof-evidence`.
-- Wikidata: the public entity item is `Verifiable Roof`, `Q140482857`.
+- Wikidata status: no active Wikidata QID is asserted for Verifiable Roof; it remains supporting work connected to the canonical person and organization nodes.
 - Site evidence: the Inspector Roofing homepage and Atlas study page are live as of July 10, 2026; the checked `/ip/` URL redirects to the homepage.
 
 Do not describe Verifiable Roof(TM) as a registered trademark unless the USPTO status changes. Do not use the registered trademark symbol.
 
 ## Public Records
 
-- Verifiable Roof Wikidata item: https://www.wikidata.org/wiki/Q140482857
+- Canonical relationship: supporting evidence package connected to Richard Amir Nasser and Inspector Roofing and Restoration.
 - Zenodo DOI: https://doi.org/10.5281/zenodo.21298744
 - GitHub repository: https://github.com/RichNass87/verifiable-roof-evidence
 - Hugging Face dataset: https://huggingface.co/datasets/InspectorRoofing/verifiable-roof-evidence
 - USPTO TSDR record: https://tsdr.uspto.gov/statusview/sn99910284
-- Richard Amir Nasser Wikidata item: https://www.wikidata.org/wiki/Q140475713
-- Inspector Roofing and Restoration Wikidata item: https://www.wikidata.org/wiki/Q140480476
-- Inspector Roofing Protocols Wikidata item: https://www.wikidata.org/wiki/Q140480722
-- Claim Verifiability Wikidata item: https://www.wikidata.org/wiki/Q140481799
+- Canonical person: https://inspector-roofing.com/richard-nasser/#person
+- Canonical organization: https://inspector-roofing.com/#organization
+- Public authority ledger: https://github.com/RichNass87/inspector-roofing-protocols/tree/main/evidence/authority-stack-node-ledger-2026-07-21
+- Status: no historical Wikidata QID is used as a live identifier or in `sameAs`.
 
 ## Install And Run Locally
 
@@ -77,6 +77,6 @@ Public names:
 - Hugging Face dataset: `InspectorRoofing/verifiable-roof-evidence`
 - Hugging Face Space target: `InspectorRoofing/verifiable-roof-evidence-checker`
 - Zenodo title: `Verifiable Roof Evidence Package: Public-Safe Source Spine Snapshot (2026-07-10)`
-- Wikidata item: `Verifiable Roof`, `Q140482857`
+- Wikidata status: no active Wikidata QID is asserted for this supporting work.
 
 Use the files in this package as the public-safe release.
